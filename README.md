@@ -38,8 +38,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/mern-chat-app.git
-   cd mern-chat-app
+   git clone https://github.com/harshita2234/mern-chat.git
+   cd mern-chat
    ```
 
 2. **Install dependencies for the API:**
